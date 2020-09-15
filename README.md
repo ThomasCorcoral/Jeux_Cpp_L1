@@ -1,15 +1,10 @@
 ## Qu'est-ce que Le Monde des Particules ?
 Il s'agit d'un petit jeu vidéo qui comporte lui même plusieurs mini-jeux.<br>
-<li>
-  <ul>1er mini-jeu : récupérer des petites particules dans une bassine</ul>
-  <ul>2ème mini-jeu : </ul>
-  <ul>1er mini-jeu : récupérer des petites particules dans une bassine</ul>
-  <ul>1er mini-jeu : récupérer des petites particules dans une bassine</ul>
-</li>
 
-## Demo
-
-![Preview](https://github.com/ThomasCorcoral/minifier/blob/master/minifier.png)
+  <ul>1er mini-jeu : Récupérer des petites particules dans une bassine</ul>
+  <ul>2ème mini-jeu : Esquiver les particules dans un parcours à la souris</ul>
+  <ul>3ème mini-jeu : Esquiver les astéroïdes en déplacant le personnage à gauche ou à droite </ul>
+  <ul>4ème mini-jeu : Tirer sur le monstre pour lui retirer sa barre de vie</ul>
 
 ## Comment a-t-il été réalisé ?
 
@@ -18,11 +13,15 @@ J'ai réalisé ce pojet en première année d'informatique à Lyon avec la bibli
 ## Guide d'installation
 
 #### Etape 1
-
-Téléchargez le script minifier.sh puis allez dans le dossier
+Clonez le projet sur votre orinateur.
 
 #### Etape 2
-Changez les permissions (chmod +x ./minifier.sh
+Rendez vous dans le dossier et faites un make
+
+<i>Pour la suite nous utiliserons le logiciel Codeblocks</i>
 
 #### Etape 3
-Lancez le script ./minifier (dossier d'origine) (dossier destination)
+Ouvrez le fichier build/linux/grapic.workspace dans Codeblocks
+
+#### Etape 4
+Selectionnez le fichier Projet/Sources/apps/Projet/main_projet.cpp puis lancez le
