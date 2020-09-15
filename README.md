@@ -25,3 +25,5 @@ Ouvrez le fichier build/linux/grapic.workspace dans Codeblocks
 
 #### Etape 4
 Selectionnez le fichier Projet/Sources/apps/Projet/main_projet.cpp puis lancez le
+![Preview](https://github.com/ThomasCorcoral/Jeux_Cpp_L1/blob/master/chemin.png)
+
