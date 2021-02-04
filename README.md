@@ -1,29 +1,30 @@
-## Qu'est-ce que Le Monde des Particules ?
-Il s'agit d'un petit jeu vidéo qui comporte lui même plusieurs mini-jeux.<br>
+## What is Particle World?
 
-  <ul>1er mini-jeu : Récupérer des petites particules dans une bassine</ul>
-  <ul>2ème mini-jeu : Esquiver les particules dans un parcours à la souris</ul>
-  <ul>3ème mini-jeu : Esquiver les astéroïdes en déplacant le personnage à gauche ou à droite </ul>
-  <ul>4ème mini-jeu : Tirer sur le monstre pour lui retirer sa barre de vie</ul>
+It is a small video game that includes several mini-games.<br>
 
-## Comment a-t-il été réalisé ?
+<ul>1st mini-game: Collect small particles in a basin</ul>
+<ul>2nd mini-game: Dodge particles in a mouse course</ul>
+<ul>3rd mini-game: Dodge asteroids by moving the character to the left or right</ul>
+<ul>4th mini-game: Shoot the monster to remove its life bar</ul>
 
-J'ai réalisé ce pojet en première année d'informatique à Lyon avec la bibliothèque Grapic en C++.
+## How was it done?
 
-## Guide d'installation
+I realized this project in the first year of computer science in Lyon with the library Grapic in C++.
 
-#### Etape 1
-Clonez le projet sur votre orinateur.
+## Installation Guide
 
-#### Etape 2
-Rendez vous dans le dossier et faites un make
+#### Step 1
+Clone the project on your orinator.
 
-<i>Pour la suite nous utiliserons le logiciel Codeblocks</i>
+##### Step 2
+Go to the folder and make a make
 
-#### Etape 3
-Ouvrez le fichier build/linux/grapic.workspace dans Codeblocks
+<i>For the rest we will use Codeblocks</i>
 
-#### Etape 4
-Selectionnez le fichier Projet/Sources/apps/Projet/main_projet.cpp puis lancez le<br>
+##### Step 3
+Open the file build/linux/grapic.workspace in Codeblocks
+
+#### Step 4
+Select the Project/Sources/apps/Project/main_projet.cpp file and launch le<br>
 ![Preview](https://github.com/ThomasCorcoral/Jeux_Cpp_L1/blob/master/chemin.png)
 
